@@ -1,0 +1,25 @@
+.done{ 
+	text-decoration: 
+	line-through; 
+	color: #ccc; 
+}
+
+ul{
+	list-style: none;
+	padding: 10px;
+	margin: 50px 400px;
+	width: 40%;
+	float: left;
+	color: #000000;
+	border: 1px solid #333;
+	background: #eee;;
+}
+
+body{
+	background: #353131;
+	color: #ffffff;
+}
+
+h1{
+	color: #ffffff;
+}
